@@ -1,4 +1,4 @@
-package model;
+package src;
 
 public class DoubleContainer {
     private final double[] doubles;
