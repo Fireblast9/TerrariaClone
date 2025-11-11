@@ -1,4 +1,4 @@
-package terraria_clone.src.model;
+package model;
 
 public class Chunk {
 
