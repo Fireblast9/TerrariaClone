@@ -1,6 +1,9 @@
+package terraria_clone.src.model;
+
 public class Chunk {
 
-    int cx, cy;
+    int cx;
+    int cy;
 
     Integer[][][] blocks;
     Byte[][][] blockds;
